@@ -1,0 +1,6 @@
+Dog
+Cat
+Hamster
+Bird
+Lizard
+Frog
